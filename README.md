@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MSSQL, Adobe Illustrator, Blender, BOOTSTRAP, SQL.**
 
-- 💬 Ask me about **Illustration, Gaming.**
+- 💬 Ask me about **Illustration, UI/UX, MSSQL.**
 
 - 📫 How to reach me **abhishekyadav.prydan@gmail.com**
 
