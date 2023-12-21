@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Worksmart**
+- 🔭 I’m currently working on **Live Project**
 
-- 🌱 I’m currently learning **ReactJS, MSSQL, Adobe Illustrator, Blender, BOOTSTRAP, SQL.**
+- 🌱 I’m currently learning **GraphQL, Blender**
 
-- 💬 Ask me about **Illustration, UI/UX, MSSQL.**
+- 💬 Ask me about **NodeJS, Data Model of MongoDB**
 
 - 📫 How to reach me **abhishekyadav.prydan@gmail.com**
 
